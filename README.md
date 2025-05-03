@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/seanlee10-server-youtube-transcription-badge.png)](https://mseep.ai/app/seanlee10-server-youtube-transcription)
+
 [![smithery badge](https://smithery.ai/badge/@seanlee10/server-youtube-transcription)](https://smithery.ai/server/@seanlee10/server-youtube-transcription)
 
 # YouTube Transcription Server
